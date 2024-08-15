@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "scart")(type "KiCad")(uri "${KIPRJMOD}/scart.kicad_sym")(options "")(descr ""))
+)
